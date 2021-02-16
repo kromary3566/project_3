@@ -1,0 +1,60 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/basic-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- InstanceEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+	header {
+    background-image: url(../images/poster.jpeg);
+    background-size: contain;
+	}
+	h1 {
+    color: #E35858;	
+	}
+</style>
+	
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../blog.thml">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	  </ul>
+	</nav>
+  <!--Begin Floated Elements-->
+  <!-- InstanceBeginEditable name="main-content" -->
+  <main>
+    <h1>Image Gallery</h1>
+    <div class="column">
+		<img src="../images/gardens1.jpg" width="250" height="250" alt="image of vines and rocks"/>
+		<img src="../images/gardens4.jpg" width="250" height="250" alt="image of a praying buddha"/>
+		<img src="../images/gardens7.jpg" width="250" height="250" alt="image of purple flowers"/>
+	  </div>
+    <div class="column">
+		<img src="../images/gardens2.jpg" width="250" height="250" alt="close up image of red fungus"/>
+		<img src="../images/gardens5.jpg" width="250" height="250" alt="image of water dripping from bamboo"/>
+		<img src="../images/gardens8.jpg" width="250" height="250" alt="image of dalmation smiling"/>
+	  </div>
+	<div class="column">
+		<img src="../images/gardens3.jpg" width="250" height="250" alt="close up image of green leaf"/>
+		<img src="../images/gardens6.jpg" width="250" height="250" alt="image of light shining through blue bottles"/>
+		<img src="../images/gardens9.jpg" width="250" height="250" alt="close up image of white blossoms"/>
+	  </div>
+  </main>
+  <!-- InstanceEndEditable -->  <!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+<!-- InstanceEnd --></html>
